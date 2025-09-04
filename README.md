@@ -113,21 +113,15 @@ me-api-playground/
 
 1. **Push to GitHub**
 2. **Connect to Render**
-3. **Environment Variables:**
-   - `DATABASE_URL`: Your PostgreSQL connection string
-   - `NODE_ENV`: production
-   - `FRONTEND_URL`: Your Vercel frontend URL
-4. **Build Command:** `npm install`
-5. **Start Command:** `npm start`
+3. **Build Command:** `npm install`
+4. **Start Command:** `npm start`
 
 ### Frontend (Vercel)
 
 1. **Push to GitHub**
 2. **Connect to Vercel**
-3. **Environment Variables:**
-   - `REACT_APP_API_URL`: Your Render backend URL
-4. **Build Command:** `npm run build`
-5. **Output Directory:** `build`
+3. **Build Command:** `npm run build`
+4. **Output Directory:** `build`
 
 ## 📊 Database Schema
 
