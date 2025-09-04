@@ -184,6 +184,6 @@ If you encounter any issues:
 
 ## 🔗 Links
 
-- **Backend API**: [http://localhost:5000](http://localhost:5000)
-- **Frontend App**: [http://localhost:3000](http://localhost:3000)
-- **Health Check**: [http://localhost:5000/health](http://localhost:5000/health)
+- **Backend API**: [[https://me-api-backend-g8a2.onrender.com](https://me-api-backend-g8a2.onrender.com)
+- **Frontend App**: [https://predusk-assignment-eight.vercel.app/](https://predusk-assignment-eight.vercel.app/)
+
